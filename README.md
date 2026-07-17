@@ -282,6 +282,8 @@ This indicates a moderate level of employee satisfaction across the organization
 
 # Key Insights
 
+![insight](https://github.com/Dumoteyim/HR-ATTRITION-ANALYTICS-PROJECT/blob/main/HR%20insights.png)
+
 ### 1. Overall employee attrition remains relatively high.
 
 Out of **1,470 employees**, **237 employees left**, resulting in an attrition rate of **16.12%**.
