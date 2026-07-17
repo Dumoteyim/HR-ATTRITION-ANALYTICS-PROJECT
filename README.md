@@ -155,9 +155,7 @@ The dashboard includes the following HR KPIs:
 
 ### Raw Dataset
 
-```markdown
-![Raw Dataset](images/raw_dataset.png)
-```
+![Raw Dataset](https://github.com/Dumoteyim/HR-ATTRITION-ANALYTICS-PROJECT/blob/main/Attrition%20RawData.png)
 
 ### Pivot Table Analysis
 
