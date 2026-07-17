@@ -159,9 +159,8 @@ The dashboard includes the following HR KPIs:
 
 ### Pivot Table Analysis
 
-```markdown
-![Pivot Analysis](images/pivot_analysis.png)
-```
+![Pivot Analysis](https://github.com/Dumoteyim/HR-ATTRITION-ANALYTICS-PROJECT/blob/main/RawCalc1.png)
+
 
 ### KPI Summary
 
