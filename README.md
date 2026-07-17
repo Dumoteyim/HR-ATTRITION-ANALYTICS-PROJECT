@@ -147,13 +147,11 @@ The dashboard includes the following HR KPIs:
 
 ## HR Attrition Dashboard
 
-> Replace the image paths below with your GitHub repository image paths.
-
 ### Dashboard
 
-```markdown
-![HR Attrition Dashboard](images/hr_dashboard.png)
-```
+
+![HR Attrition Dashboard](https://github.com/Dumoteyim/HR-ATTRITION-ANALYTICS-PROJECT/blob/main/HRATTRITION%20DASHBOARD.png)
+
 
 ### Raw Dataset
 
