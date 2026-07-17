@@ -164,9 +164,7 @@ The dashboard includes the following HR KPIs:
 
 ### KPI Summary
 
-```markdown
-![KPI Summary](images/kpi_summary.png)
-```
+![KPI Summary](https://github.com/Dumoteyim/HR-ATTRITION-ANALYTICS-PROJECT/blob/main/RawCalc2.png)
 
 If your repository name is **HR-Attrition-Analytics-Dashboard**, your folder structure should look like:
 
